@@ -4,7 +4,7 @@ email: china@sigmatechnology.se
 description: > # this means to ignore newlines until "baseurl:"
   科多思的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://li-siru.github.io # the base hostname & protocol for your site
+url: http://lisiru.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: sr
 
